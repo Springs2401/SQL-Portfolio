@@ -1,0 +1,11 @@
+"id";"title";"post_type_id";"creation_date";"score";"view_count";"owner_user_id"
+2001;"How to solve SQL JOIN issues?";1;"2023-01-01";10;100;1
+2002;"Best practices for writing SQL queries";2;"2023-01-02";15;150;2
+2003;"Understanding INNER JOIN in SQL";1;"2023-01-03";20;200;3
+2004;"What is a LEFT JOIN?";2;"2023-01-04";25;250;4
+2005;"Database indexing techniques";1;"2023-01-05";30;300;5
+2006;"Explaining SQL subqueries";2;"2023-01-06";35;350;6
+2007;"How to optimize SQL queries?";1;"2023-01-07";40;400;7
+2008;"Database normalization concepts";2;"2023-01-08";45;450;8
+2009;"SQL Aggregate Functions explained";1;"2023-01-09";50;500;9
+2010;"Introduction to SQL Window Functions";2;"2023-01-10";55;550;10
